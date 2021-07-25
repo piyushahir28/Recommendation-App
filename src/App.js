@@ -51,7 +51,7 @@ const movieLib = {
   ScienceFiction: [
     {
       image:
-        "https://lh3.googleusercontent.com/proxy/CkvcEJT2i7x4hbI4zuuX4-q9pfjRENPZ_yARPnILaYqGBg4ufwixAq_nY3T8v7-0H_Ec8ibxDBlfioxuoQVSTChxG7vQczMr-DdGiA",
+        "https://lh3.googleusercontent.com/proxy/pOywgD0NEf3NC_d0gKMREwsg6vMihlWbIImE6xAhkdsVtHD1GpdzjdWVxhfDLHhxDP0nprDidhcDC2T3qDVDUAaykfW3tjmH4r6hAQ",
       name: "Ex-Machina",
       year: "2014",
       director: "Alex Garland"
